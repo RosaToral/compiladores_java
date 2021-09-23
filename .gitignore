@@ -25,7 +25,9 @@ hs_err_pid*
 Compilador/.classpath
 Compilador/.project
 Compilador/.settings
+Compilador/bin
 
 Maquina_Turing/.classpath
 Maquina_Turing/.project
 Maquina_Turing/.settings
+Maquina_Turing/bin
