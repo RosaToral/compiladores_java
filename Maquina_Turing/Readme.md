@@ -1,8 +1,14 @@
  * Tellez Campos Luis Felipe
  * Toral Maldonado Rosa Guadalupe
+ 
+ El algoritmo es para una máquina de Turing que funciona como busy beaver. Fue escrito por el profesor René MacKinney Romero y editado por nosotros para que funcione con cualquier autómata que se le agregue por medio de una interfaz gráfica
 
 
 # INSTRUCCIONES
+
+Debe tener instalado JDK ya que elejecutable es un archivo .jar
+
+Debe ejecutar el archivo MaquinaTuringFinal.jar (puede ser dando doble clic)
 
 El archivo a ingresar debe contener las especificaciones de la máquina en un solo renglón.
 
