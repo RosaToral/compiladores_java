@@ -9,4 +9,4 @@ $ Compilador_UAMI_Toral_Maldonado su_programa.txt
 ```
 Se generará el programa objeto (su_archivo.txt) y el log con los errores (su_archivo.err)
 
-Puede ver la guía [Proyecto Compiladores(Proyecto_Compiladores.pdf)] para ver toda la lógica detrás del programa.
+Puede ver la guía [Proyecto Compiladores](Proyecto_Compiladores.pdf) para ver toda la lógica detrás del programa.
