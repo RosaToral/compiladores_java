@@ -2,5 +2,5 @@
 
 Cada carpeta tiene su propio Readme.md
 
-* [Máquina Turing]()
-* [Compilador]()
+* [Máquina de Turing](Maquina_Turing/Readme.md)
+* [Compilador](Compilador/Readme.md)
