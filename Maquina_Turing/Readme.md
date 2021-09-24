@@ -2,34 +2,44 @@
  * Toral Maldonado Rosa Guadalupe
 
 
-#INSTRUCCIONES
+# INSTRUCCIONES
 
-El archivo a ingresar debe contener las especificaciones de la máquina en un solo renglón.
+El archivo a ingresar debe contener las especificaciones de la mÃ¡quina en un solo renglÃ³n.
+
 Debe estar descrito de la siguiente manera:
-	|Conjunto de transisiones(|Estado(i),Símbolo(i),Estado(i+1),Símbolo(i+1),Movimiento|)|Cinta|Número de estados|Alfabeto Sigma|Alfabeto Gama|Estado Inicial|Posición inicial
+	|Conjunto de transisiones(|Estado(i),SÃ­mbolo(i),Estado(i+1),SÃ­mbolo(i+1),Movimiento|)|Cinta|NÃºmero de estados|Alfabeto Sigma|Alfabeto Gama|Estado Inicial|PosiciÃ³n inicial
 
 Por ejemplo:
 	|q0,0,q1,1,R|q0,1,h,1,R|q1,0,q2,0,R|q1,1,q1,1,R|q2,0,q2,1,L|q2,1,q0,1,L|0000000000000|3|01|01|q0|5
 
-Todos los estados, excepto el estado final, debe estar escrito por un caracter cualquiera seguidp de un número.
+Todos los estados, excepto el estado final, debe estar escrito por un caracter cualquiera seguidp de un nÃºmero.
+
 El estado final debe insertarse como una h.
 
-Para leer la dirección del archivo esta debe escribirse siguiendo el siguiente ejemplo:
+Para leer la direcciÃ³n del archivo esta debe escribirse siguiendo el siguiente ejemplo:
+
 C:/Users/Las lokis/Desktop/prueba.txt
 
 Los archivos deben estar en formato txt.
-Hay dos archivos de ejmplo disponibles:
-Maquina2g.txt
-Maquina1.txt
 
-Una vez ingresada la dirección debe presionarse la tecla enter.
+Hay dos archivos de ejmplo disponibles:
+
+- Maquina2g.txt
+
+- Maquina1.txt
+
+Una vez ingresada la direcciÃ³n debe presionarse la tecla enter.
 
 BOTONES
 
 Limpiar: libera el contenido de la ventana.
+
 Siguiente: Al dar click, muestra un solo paso.
-Saltar Pasos: Pide un número al usuario y se salta ese número de pasos.
+
+Saltar Pasos: Pide un nÃºmero al usuario y se salta ese nÃºmero de pasos.
+
 Salir: cierra la ventana.
 
-NOTA
-Los archivos Maquina1 y Maquina2 son ejemplos de Máquinas de Turring
+# NOTA
+
+Los archivos Maquina1 y Maquina2 son ejemplos de MÃ¡quinas de Turing
