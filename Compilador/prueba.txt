@@ -1,0 +1,5 @@
+programa prueba;
+comienza
+i = r * (12 + u);
+imprime("Valor de i ", i);
+termina
